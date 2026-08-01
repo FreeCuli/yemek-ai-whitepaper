@@ -6,7 +6,7 @@
 
 ## Slide 1: Title
 **Headline:** Breaking the Kitchen Paradigm
-**Sub-headline:** FreeCuli: The Zero-Cost, 100% Offline Edge AI Engine for Next-Gen Smart Appliances.
+**Sub-headline:** FreeCuli: The Zero-Cost, 100% Offline Edge AI Certification Standard for Next-Gen Smart Appliances.
 **Visual Idea:** A sleek, futuristic smart oven with the "FreeCuli Inside" badge glowing subtly in the corner.
 
 ---
@@ -65,23 +65,23 @@
 
 ## Slide 8: The "Ingredient Brand" Strategy
 **Headline:** The "Intel Inside" of the Smart Kitchen
-**Body:** FreeCuli serves as an ironclad consumer guarantee. When buyers see the **"FreeCuli Inside™"** badge, they are guaranteed three things:
+**Body:** FreeCuli serves as an ironclad consumer guarantee. When buyers see the **#FreeCULI Certification Badge**, they are guaranteed three things:
 1. Absolute Hands-Free Liberation
 2. Total Operational Reliability (Offline)
 3. 100% Privacy by Design (No cloud audio streaming)
 
 ---
 
-## Slide 9: The Dual-Licensing Commercial Model
+## Slide 9: The Certification & Trademark Model
 **Headline:** A Viable Path to Proprietary Integration
 **Body:**
 * **Open-Source (AGPL-3.0):** The foundational HFSCA architecture is completely open to drive industry standardization.
-* **Commercial License:** Appliance OEMs purchase a commercial license to embed our closed-source binaries natively and secure the legal right to display the trademarked "FreeCuli Inside" seal on their hardware.
+* **Enterprise Certification:** Appliance OEMs utilize our open-source reference architecture and acquire a B2B Certification to bypass AGPL restrictions, securing the legal right to display the #FreeCULI certification badge on their proprietary hardware.
 
 ---
 
 ## Slide 10: Call to Action
 **Headline:** Power the Next Generation of Hardware
-**Body:** Don't let compounding cloud costs and connectivity issues break your brand's consumer experience.
-**CTA:** Integrate the FreeCuli Edge AI SDK today.
-**Contact:** [info@yemekyarismasi.com] | [smartkitchenassistant.com] | [GitHub Repository]
+**Body:** Don't let compounding cloud costs, connectivity issues, and GDPR compliance risks break your brand's consumer experience.
+**CTA:** Adopt the FreeCuli Certification Standard today.
+**Contact:** [info@freeculi.com] | [freeculi.com] | [github.com/freeculi]
