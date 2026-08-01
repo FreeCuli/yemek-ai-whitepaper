@@ -84,12 +84,14 @@ In addition to visual hallucination prevention, Yemek Yarışması Engineering h
 2. **Hardware Session Persistence:** Maintains active cooking sessions across long pauses without relying on cloud keep-alives or browser garbage collection.
 3. **Zero-Cost On-Device Inference:** All core AI processing logic is designed to run locally on the appliance microprocessor (Edge), resulting in zero cloud API costs per request.
 
-### The FreeCuli Commercial Framework & IP Strategy
-To protect the intellectual property and offer hardware manufacturers a viable path to proprietary integration, we employ a Dual-Licensing architecture coupled with a commercial ingredient brand:
+### The FreeCuli Certification Standard
+FreeCuli has evolved into an independent B2B Certification Authority for smart kitchen hardware. 
 
-* **HFSCA vs. FreeCuli:** **HFSCA** is the open-source architectural methodology. **FreeCuli** is the commercial "Ingredient Brand" (similar to *Intel Inside*) licensed to hardware OEMs who embed this technology into their closed-source appliances.
-* **Dual-Licensing Model:** The HFSCA codebase is AGPL-3.0. Appliance manufacturers requiring closed-source firmware integration purchase a Commercial License. This license grants them the proprietary software rights and the **Trademark License** to display the "FreeCuli Inside™" seal on their hardware.
-* **Consumer Guarantee:** When consumers see the FreeCuli badge on a smart oven or refrigerator, it guarantees 100% offline functionality, absolute data privacy, and zero-latency voice guidance.
+* **HFSCA vs. FreeCuli:** **HFSCA** is the open-source reference architecture. **FreeCuli** is the global certification standard.
+* **Enterprise Certification:** The HFSCA codebase is AGPL-3.0. Appliance manufacturers utilize our open-source reference architecture and acquire an Enterprise Certification to bypass AGPL restrictions, securing the legal right to display the #FreeCULI certification badge on their proprietary hardware.
+* **Consumer Guarantee:** When consumers see the FreeCuli badge on a smart oven or refrigerator, it guarantees 100% offline functionality, absolute data privacy (no cloud audio streaming), and zero-latency voice guidance.
+
+*Note: For the official FreeCuli Pitch Deck and B2B Certification details, please view: [FREECULI_PITCH_DECK.md](./FREECULI_PITCH_DECK.md)*
 
 ---
 
