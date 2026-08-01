@@ -1,4 +1,8 @@
-# FreeCuli: B2B Pitch Deck (Presentation Content)
+> [!IMPORTANT]
+> **FreeCuli has evolved into an independent B2B Certification Authority.**  
+> For the official standard, latest open-source codebase, and commercial licensing, please visit our dedicated organization: **[github.com/FreeCuli](https://github.com/FreeCuli)** and **[freeculi.com](https://freeculi.com)**.
+
+# FreeCuli: B2B Pitch Deck (Certification Standard)
 
 *This document contains the slide-by-slide text for the FreeCuli B2B Technical Pitch Deck. It is designed to be presented to white-goods manufacturers (OEMs), kitchen appliance brands, and smart home hardware integrators.*
 
